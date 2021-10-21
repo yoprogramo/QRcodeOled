@@ -6,15 +6,19 @@ To use it:
 
 * In platform.io: add as dependencies:
 
- ** yoprogramo/QRcodeDisplay
- ** yoprogramo/QRcodeOled
- ** thingpulse/ESP8266 and ESP32 OLED driver for SSD1306 displays
+```
+yoprogramo/QRcodeDisplay
+yoprogramo/QRcodeOled
+thingpulse/ESP8266 and ESP32 OLED driver for SSD1306 displays
+```
 
  * In arduino ide open Library Manager (menu Sketch > Include Library > Manage Libraries…) then install the following libraries:
 
- ** QRcodeDisplay
- ** QRcodeOled
- ** ESP8266 and ESP32 OLED driver for SSD1306 displays
+```
+ QRcodeDisplay
+ QRcodeOled
+ ESP8266 and ESP32 OLED driver for SSD1306 displays
+```
 
  Creating a QRcode is just as simple as:
 
