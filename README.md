@@ -4,7 +4,9 @@ Subclass that you can use jointly with https://github.com/yoprogramo/QRcodeDispl
 
 To use it:
 
-* In platform.io: add as dependencies:
+## In platform.io: 
+
+add as dependencies:
 
 ```
 yoprogramo/QRcodeDisplay
@@ -12,7 +14,8 @@ yoprogramo/QRcodeOled
 thingpulse/ESP8266 and ESP32 OLED driver for SSD1306 displays
 ```
 
- * In arduino ide open Library Manager (menu Sketch > Include Library > Manage Libraries…) then install the following libraries:
+## In arduino ide:
+open Library Manager (menu Sketch > Include Library > Manage Libraries…) then install the following libraries:
 
 ```
  QRcodeDisplay

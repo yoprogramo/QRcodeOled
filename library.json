@@ -1,6 +1,6 @@
 {
   "name": "QRcodeOled",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "keywords": "qr code, ESP32, ESP8266, SSD1306, SSH1106",
   "description": "QR code generation on OLED displays",
   "repository":
